@@ -13,7 +13,7 @@ Libraries used: 1) pygeoip
 SetUp:
 -------------------------------
 We need to install python-cymruwhois first.
-1) Go to the directory $\python-cymruwhois-master\python-cymruwhois-master\
+1) Extract the file python-cymruwhois-master.zip and go to the directory $\python-cymruwhois-master\python-cymruwhois-master\
 2) python setup.py build
 3) python setup.py install
 
