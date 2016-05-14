@@ -1,5 +1,5 @@
 # ASRelationRipeAtlas
-Extracting CLient-provider Relationship between Autonomous Systems from RIP Atlas Using Gao-Rexford Model
+Extracting Client-provider Relationship between Autonomous Systems from RIP Atlas Using Gao-Rexford Model
 				
 										        Authors: Rathish Das and Sarthak Ghosh
 ===============================================================================================================================
